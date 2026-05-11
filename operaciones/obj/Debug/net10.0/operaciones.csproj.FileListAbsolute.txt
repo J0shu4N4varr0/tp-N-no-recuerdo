@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\operaciones\bin\Debug\net10.0\operaciones.exe
+C:\Users\Lenovo\Documents\operaciones\bin\Debug\net10.0\operaciones.deps.json
+C:\Users\Lenovo\Documents\operaciones\bin\Debug\net10.0\operaciones.runtimeconfig.json
+C:\Users\Lenovo\Documents\operaciones\bin\Debug\net10.0\operaciones.dll
+C:\Users\Lenovo\Documents\operaciones\bin\Debug\net10.0\operaciones.pdb
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.dll
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\refint\operaciones.dll
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.pdb
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\operaciones.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\operaciones\obj\Debug\net10.0\ref\operaciones.dll
