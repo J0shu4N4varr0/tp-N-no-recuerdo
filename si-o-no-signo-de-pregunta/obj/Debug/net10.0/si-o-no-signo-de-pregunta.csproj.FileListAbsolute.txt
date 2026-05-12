@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\bin\Debug\net10.0\si-o-no-signo-de-pregunta.exe
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\bin\Debug\net10.0\si-o-no-signo-de-pregunta.deps.json
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\bin\Debug\net10.0\si-o-no-signo-de-pregunta.runtimeconfig.json
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\bin\Debug\net10.0\si-o-no-signo-de-pregunta.dll
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\bin\Debug\net10.0\si-o-no-signo-de-pregunta.pdb
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.dll
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\refint\si-o-no-signo-de-pregunta.dll
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.pdb
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\si-o-no-signo-de-pregunta.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\si-o-no-signo-de-pregunta\obj\Debug\net10.0\ref\si-o-no-signo-de-pregunta.dll
