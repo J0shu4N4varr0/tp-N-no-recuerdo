@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Documents\bucleando\bin\Debug\net10.0\bucleando.exe
+C:\Users\Lenovo\Documents\bucleando\bin\Debug\net10.0\bucleando.deps.json
+C:\Users\Lenovo\Documents\bucleando\bin\Debug\net10.0\bucleando.runtimeconfig.json
+C:\Users\Lenovo\Documents\bucleando\bin\Debug\net10.0\bucleando.dll
+C:\Users\Lenovo\Documents\bucleando\bin\Debug\net10.0\bucleando.pdb
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.dll
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\refint\bucleando.dll
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.pdb
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\bucleando.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\bucleando\obj\Debug\net10.0\ref\bucleando.dll
